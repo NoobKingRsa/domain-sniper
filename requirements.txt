@@ -1,0 +1,19 @@
+# === Core Dependencies ===
+
+# For WHOIS lookups
+python-whois>=0.7.3
+
+# For DNS resolution (MX, NS, etc.)
+dnspython>=2.4.2
+
+# For HTTP(S) domain status checks
+requests>=2.31.0
+
+
+# === Optional Features ===
+
+# Uncomment below to enable Telegram alerts
+# python-telegram-bot>=20.0
+
+# Uncomment if using colorful CLI outputs
+# colorama>=0.4.6
