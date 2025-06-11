@@ -16,8 +16,8 @@ def banner():
     print("""
 ===========================================
    🔥 Domain Sniper Bot v1.4
-   📱 Made by: radom duded
-   💻 GitHub: github.com/YOUR_GITHUB
+   📱 Made by: NoobKingRsa
+   💻 GitHub: github.com/NoobKingRsa
    ⚠️ Disclaimer: For educational/research use only.
 ===========================================
 """)
